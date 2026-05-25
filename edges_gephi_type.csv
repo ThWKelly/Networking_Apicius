@@ -1,0 +1,119 @@
+Source,Target,Weight,Type,Label
+Additive,Spices,371,Undirected,Additive — Spices
+Additive,Plants,291,Undirected,Additive — Plants
+Additive,Herbs,286,Undirected,Additive — Herbs
+Herbs,Spices,283,Undirected,Herbs — Spices
+Plants,Spices,276,Undirected,Plants — Spices
+Herbs,Plants,228,Undirected,Herbs — Plants
+Additive,Alcoholic Beverages,200,Undirected,Additive — Alcoholic Beverages
+Alcoholic Beverages,Spices,196,Undirected,Alcoholic Beverages — Spices
+Additive,Meat,176,Undirected,Additive — Meat
+Meat,Spices,170,Undirected,Meat — Spices
+Additive,Vegetables,165,Undirected,Additive — Vegetables
+Alcoholic Beverages,Herbs,161,Undirected,Alcoholic Beverages — Herbs
+Alcoholic Beverages,Plants,160,Undirected,Alcoholic Beverages — Plants
+Spices,Vegetables,152,Undirected,Spices — Vegetables
+Plants,Vegetables,146,Undirected,Plants — Vegetables
+Herbs,Vegetables,135,Undirected,Herbs — Vegetables
+Herbs,Meat,126,Undirected,Herbs — Meat
+Meat,Plants,121,Undirected,Meat — Plants
+Additive,Fruit,100,Undirected,Additive — Fruit
+Fruit,Spices,95,Undirected,Fruit — Spices
+Alcoholic Beverages,Vegetables,93,Undirected,Alcoholic Beverages — Vegetables
+Additive,Dairy,88,Undirected,Additive — Dairy
+Alcoholic Beverages,Meat,87,Undirected,Alcoholic Beverages — Meat
+Fruit,Plants,86,Undirected,Fruit — Plants
+Fruit,Herbs,86,Undirected,Fruit — Herbs
+Dairy,Spices,86,Undirected,Dairy — Spices
+Additive,Cereals,82,Undirected,Additive — Cereals
+Cereals,Spices,81,Undirected,Cereals — Spices
+Cereals,Herbs,69,Undirected,Cereals — Herbs
+Nuts & Seeds,Spices,68,Undirected,Nuts & Seeds — Spices
+Meat,Vegetables,67,Undirected,Meat — Vegetables
+Additive,Nuts & Seeds,66,Undirected,Additive — Nuts & Seeds
+Cereals,Plants,65,Undirected,Cereals — Plants
+Dairy,Plants,64,Undirected,Dairy — Plants
+Alcoholic Beverages,Fruit,55,Undirected,Alcoholic Beverages — Fruit
+Alcoholic Beverages,Dairy,55,Undirected,Alcoholic Beverages — Dairy
+Dairy,Herbs,55,Undirected,Dairy — Herbs
+Herbs,Nuts & Seeds,54,Undirected,Herbs — Nuts & Seeds
+Fruit,Vegetables,52,Undirected,Fruit — Vegetables
+Nuts & Seeds,Plants,50,Undirected,Nuts & Seeds — Plants
+Fish,Plants,50,Undirected,Fish — Plants
+Alcoholic Beverages,Cereals,50,Undirected,Alcoholic Beverages — Cereals
+Dairy,Meat,49,Undirected,Dairy — Meat
+Fish,Spices,49,Undirected,Fish — Spices
+Cereals,Meat,48,Undirected,Cereals — Meat
+Additive,Fish,48,Undirected,Additive — Fish
+Fish,Herbs,46,Undirected,Fish — Herbs
+Fruit,Meat,41,Undirected,Fruit — Meat
+Meat,Nuts & Seeds,35,Undirected,Meat — Nuts & Seeds
+Cereals,Vegetables,35,Undirected,Cereals — Vegetables
+Dairy,Vegetables,33,Undirected,Dairy — Vegetables
+Alcoholic Beverages,Fish,33,Undirected,Alcoholic Beverages — Fish
+Alcoholic Beverages,Nuts & Seeds,31,Undirected,Alcoholic Beverages — Nuts & Seeds
+Seafood,Spices,29,Undirected,Seafood — Spices
+Additive,Seafood,27,Undirected,Additive — Seafood
+Additive,Legumes,27,Undirected,Additive — Legumes
+Fruit,Nuts & Seeds,25,Undirected,Fruit — Nuts & Seeds
+Legumes,Spices,24,Undirected,Legumes — Spices
+Nuts & Seeds,Vegetables,24,Undirected,Nuts & Seeds — Vegetables
+Dairy,Nuts & Seeds,23,Undirected,Dairy — Nuts & Seeds
+Fish,Vegetables,22,Undirected,Fish — Vegetables
+Herbs,Legumes,22,Undirected,Herbs — Legumes
+Legumes,Plants,21,Undirected,Legumes — Plants
+Fish,Fruit,19,Undirected,Fish — Fruit
+Herbs,Seafood,18,Undirected,Herbs — Seafood
+Cereals,Fruit,18,Undirected,Cereals — Fruit
+Plants,Seafood,17,Undirected,Plants — Seafood
+Cereals,Dairy,17,Undirected,Cereals — Dairy
+Legumes,Vegetables,16,Undirected,Legumes — Vegetables
+Alcoholic Beverages,Legumes,15,Undirected,Alcoholic Beverages — Legumes
+Dairy,Fruit,14,Undirected,Dairy — Fruit
+Dairy,Fish,14,Undirected,Dairy — Fish
+Alcoholic Beverages,Seafood,13,Undirected,Alcoholic Beverages — Seafood
+Additive,Fungi,13,Undirected,Additive — Fungi
+Cereals,Nuts & Seeds,12,Undirected,Cereals — Nuts & Seeds
+Fungi,Spices,11,Undirected,Fungi — Spices
+Fungi,Plants,11,Undirected,Fungi — Plants
+Cereals,Fish,10,Undirected,Cereals — Fish
+Dairy,Seafood,10,Undirected,Dairy — Seafood
+Fungi,Herbs,9,Undirected,Fungi — Herbs
+Fish,Meat,9,Undirected,Fish — Meat
+Fish,Nuts & Seeds,9,Undirected,Fish — Nuts & Seeds
+Alcoholic Beverages,Fungi,8,Undirected,Alcoholic Beverages — Fungi
+Legumes,Meat,7,Undirected,Legumes — Meat
+Dairy,Legumes,7,Undirected,Dairy — Legumes
+Meat,Seafood,6,Undirected,Meat — Seafood
+Seafood,Vegetables,6,Undirected,Seafood — Vegetables
+Fish,Seafood,5,Undirected,Fish — Seafood
+Alcoholic Beverages,Flowers,4,Undirected,Alcoholic Beverages — Flowers
+Additive,Flowers,4,Undirected,Additive — Flowers
+Nuts & Seeds,Seafood,4,Undirected,Nuts & Seeds — Seafood
+Legumes,Nuts & Seeds,4,Undirected,Legumes — Nuts & Seeds
+Fruit,Seafood,4,Undirected,Fruit — Seafood
+Additive,Bakery,4,Undirected,Additive — Bakery
+Bakery,Plants,4,Undirected,Bakery — Plants
+Bakery,Spices,4,Undirected,Bakery — Spices
+Bakery,Dairy,3,Undirected,Bakery — Dairy
+Flowers,Plants,3,Undirected,Flowers — Plants
+Flowers,Spices,3,Undirected,Flowers — Spices
+Bakery,Meat,3,Undirected,Bakery — Meat
+Bakery,Herbs,3,Undirected,Bakery — Herbs
+Bakery,Vegetables,3,Undirected,Bakery — Vegetables
+Cereals,Legumes,3,Undirected,Cereals — Legumes
+Fungi,Meat,2,Undirected,Fungi — Meat
+Bakery,Nuts & Seeds,2,Undirected,Bakery — Nuts & Seeds
+Fungi,Vegetables,2,Undirected,Fungi — Vegetables
+Cereals,Fungi,2,Undirected,Cereals — Fungi
+Alcoholic Beverages,Bakery,2,Undirected,Alcoholic Beverages — Bakery
+Flowers,Herbs,2,Undirected,Flowers — Herbs
+Bakery,Fruit,1,Undirected,Bakery — Fruit
+Flowers,Meat,1,Undirected,Flowers — Meat
+Dairy,Flowers,1,Undirected,Dairy — Flowers
+Legumes,Seafood,1,Undirected,Legumes — Seafood
+Flowers,Legumes,1,Undirected,Flowers — Legumes
+Flowers,Nuts & Seeds,1,Undirected,Flowers — Nuts & Seeds
+Flowers,Vegetables,1,Undirected,Flowers — Vegetables
+Bakery,Legumes,1,Undirected,Bakery — Legumes
+Cereals,Seafood,1,Undirected,Cereals — Seafood
